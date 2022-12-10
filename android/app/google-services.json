@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "594000779640",
+    "firebase_url": "https://eliezer-dfbd8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eliezer-dfbd8",
+    "storage_bucket": "eliezer-dfbd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594000779640:android:efbf1bf0839397806cd08d",
+        "android_client_info": {
+          "package_name": "com.eliezer.debbo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594000779640-4s01c24p4l51v2puvgg2ho33l79kogi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eliezer.debbo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "594000779640-v10tmkmk7jvbnvjij6rpf3r5cmmshs36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eliezer.debbo",
+            "certificate_hash": "3b86866c1061e7f8957bf4ab515598651684d909"
+          }
+        },
+        {
+          "client_id": "594000779640-47n484m41cg1qg0de2jp1hf89llm37l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa7JmN7NIHuAv2nbzDY4d1E5QBKIW8r-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594000779640-47n484m41cg1qg0de2jp1hf89llm37l5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594000779640-lqra054r1bhj0pk5n6f8q2s9arnk98a3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eliezer.debbo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
